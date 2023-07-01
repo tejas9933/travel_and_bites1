@@ -1,0 +1,47 @@
+
+.App {
+  text-align: center;
+  /* background-color: #7d8595c4; */
+  /* background-image:url("https://img.freepik.com/free-vector/restaurant-mural-wallpaper_23-2148706001.jpg?w=1480&t=st=1686249854~exp=1686250454~hmac=67505ebf87b294f9908fac3ced913cadf33274ac17bb4f7b34e7e1b392d9ceb3") ; */
+ 
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.logoimg{
+  height: 120px;
+  
+}

@@ -1,0 +1,27 @@
+.cardbg{
+    background-image: url("https://img.freepik.com/free-photo/boiling-cauldron-simmers-hearty-vegetable-soup-recipe-generated-by-ai_188544-10271.jpg?w=1380&t=st=1686501894~exp=1686502494~hmac=cfbfab2f2dd44f38bbbbb2678e874e0a4dda4eefb6cfa67965df4e7bd9424db4");
+}
+.card-te{
+    color: rgb(236, 236, 236);
+    /* size: 50px; */
+    /* text-size-adjust: 10px; */
+    margin-top: 60px;
+    font-size: larger;
+    font-style: italic;
+}
+.ab{
+    font: italic small-caps bold 16px/2 cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(98, 114, 122, 0.751);
+}
+.about{
+    color: aliceblue;
+}
+
+
+
+
+
+
+

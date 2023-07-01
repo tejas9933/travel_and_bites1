@@ -1,0 +1,60 @@
+.section-1{
+    background: rgb(236,212,222);
+    background: linear-gradient(90deg, rgba(236,212,222,1) 0%, rgba(148,187,233,1) 100%);
+    height: 700px;
+ 
+}
+.imgflex{
+    border-radius: 50%;
+    overflow: hidden;
+    margin-left: 10px;
+  
+}
+.text-font h4{
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 60px;
+    color:#3E313E;
+    margin-top: 60px;
+
+}
+.text-font p{
+    font: italic 1.2em "Fira Sans", serif;
+    font-size: 30px;
+    margin-top: 180px;
+}
+.text-font p span{
+    color: rgb(27, 19, 22);
+    background-color: rgb(164, 116, 33);
+    letter-spacing: normal;
+}
+.text-font span{
+    background-color: aquamarine;
+
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .imgflex{
+        display: none;
+    }
+    .text-font h4{
+        font-size: 40px;
+        margin-top: 30px;
+    }
+}
+
+
+
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
