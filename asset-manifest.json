@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/travel_and_bites1/static/css/main.b63b3e0a.css",
-    "main.js": "/travel_and_bites1/static/js/main.e29c402e.js",
+    "main.js": "/travel_and_bites1/static/js/main.ecaf720c.js",
     "static/js/787.a7c41251.chunk.js": "/travel_and_bites1/static/js/787.a7c41251.chunk.js",
     "static/media/main1.png": "/travel_and_bites1/static/media/main1.99f1b15897eefdb324e4.png",
     "static/media/logo.png": "/travel_and_bites1/static/media/logo.217dd49462e47c0e8fd6.png",
     "index.html": "/travel_and_bites1/index.html",
     "main.b63b3e0a.css.map": "/travel_and_bites1/static/css/main.b63b3e0a.css.map",
-    "main.e29c402e.js.map": "/travel_and_bites1/static/js/main.e29c402e.js.map",
+    "main.ecaf720c.js.map": "/travel_and_bites1/static/js/main.ecaf720c.js.map",
     "787.a7c41251.chunk.js.map": "/travel_and_bites1/static/js/787.a7c41251.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b63b3e0a.css",
-    "static/js/main.e29c402e.js"
+    "static/js/main.ecaf720c.js"
   ]
 }
